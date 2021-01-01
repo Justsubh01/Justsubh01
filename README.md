@@ -1,7 +1,6 @@
-### Hi there 👋
-
-<!--
-**Justsubh01/Justsubh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                              # Hi there 👋
+                                                              
+                         ## I am Sudhanshu singh.I am a computer science student and AI Enthusiast. 
 
 Here are some ideas to get you started:
 
