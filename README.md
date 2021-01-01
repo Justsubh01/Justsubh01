@@ -1,6 +1,6 @@
-                                                              # Hi there 👋
+  # Hi there 👋
                                                               
-                         ## I am Sudhanshu singh.I am a computer science student and AI Enthusiast. 
+  ## I am Sudhanshu singh.I am a computer science student and AI Enthusiast. 
 
 Here are some ideas to get you started:
 
