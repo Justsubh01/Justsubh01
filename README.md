@@ -1,7 +1,7 @@
   # Hi there 👋
 
                                                               
-  <center> I am Sudhanshu singh.I am a computer science student and AI Enthusiast. </center>
+  <center> I am Sudhanshu singh.I am a Software Engineering student and AI Enthusiast. </center>
 
 Here are some ideas to get you started:
 
