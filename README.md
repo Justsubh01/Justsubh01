@@ -6,6 +6,6 @@
 
 
 - 🔭 I’m currently working on Computer Vision project
-- 🌱 I’m currently learning OpenCv and JavaScript
+- 🌱 I’m currently learning OpenCv and Time series forcasting
 - 👯 I’m looking to collaborate on Kaggle Competitions
 
