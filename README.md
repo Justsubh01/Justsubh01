@@ -9,3 +9,4 @@
 - 🌱 I’m currently learning OpenCv and Time series forcasting
 - 👯 I’m looking to collaborate on Kaggle Competitions
 
+:dart:
