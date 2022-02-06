@@ -18,3 +18,5 @@
 2. [NLP Guide(Part 1): 📈EDA, text pre-processing & Embeddings.](https://www.kaggle.com/billiemage/toxic-comments-classification-lstm-with-glove11)
 3. [Style Transfer with Deep Neural Networks](https://www.kaggle.com/billiemage/style-transfer-with-deep-neural-networks)
 4. [Intel image classification](https://www.kaggle.com/billiemage/pytorch-use-pretrained-model)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
