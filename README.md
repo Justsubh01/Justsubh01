@@ -20,4 +20,4 @@ api/top-langs?username=anuraghazra
 3. [Style Transfer with Deep Neural Networks](https://www.kaggle.com/billiemage/style-transfer-with-deep-neural-networks)
 4. [Intel image classification](https://www.kaggle.com/billiemage/pytorch-use-pretrained-model)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Justsubh01&show_icons=true&theme=radical)
